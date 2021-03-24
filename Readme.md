@@ -15,3 +15,6 @@
 - Las operaciones binarias y digitales en brokers que manipulan graficas son simplemente una apuesta, pero, __¿Entonces porque estan permitidas?__ la respuesta es simple, estos brokers estan regulados en paises con bajos estandares de seguridad, es por ello que este tipo de operaciones estan prohibidas en los estados unidos para la mayoria de sus habitantes
 
 _Si te interesa seguir aprediendo de esto, estoy preparando un curso, mantente en sintonia_
+
+__Oscar Guzman_
+
