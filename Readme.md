@@ -16,5 +16,5 @@
 
 _Si te interesa seguir aprediendo de esto, estoy preparando un curso, mantente en sintonia_
 
-__Oscar Guzman_
+_Oscar Guzman_
 
